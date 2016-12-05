@@ -1,5 +1,5 @@
 # tensorflow
-
+Tensorflow model for Kaggle Titanic Competition
 ## Requirements
 Python 3.5.2
 ```
