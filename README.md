@@ -12,3 +12,6 @@ $ tensorboard --logdir=tensorflow_logs
 ```
 ## Kaggle competition
 [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+
+## Docker container on Docker Hub
+https://hub.docker.com/r/kirovverst/tensorflow/
